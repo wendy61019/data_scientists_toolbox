@@ -53,7 +53,7 @@
 
  Machine learning Algorithm: Linear/Logistic regression, Decision Tree/Random Forest, Deep Learning, XGBoost, ...etc. 
 
- ![](png/data_science_job_machine_learnings.png)
+ ![](data_science_job_machine_learnings.png)
 
  Cloud computing platforms: Amazon Web Services(AWS), Google Cloud Platform(GCP), Microsoft Azure, ...etc.
 
@@ -62,3 +62,10 @@
 Cloud computing products: Amazon Elastic Compute Cloud(EC2), Google Cloud Compute Engine, Microsoft Azure Virtual Machines.
 
 ![](data_science_job_cloud_computing_products.png)
+
+### 進階洞察
+
+### 企業目前對機器學習的應用階段有哪些？
+Business machine learning adoption: We are exploring ML methods, No(we do not use ML methods), We have well established ML methods, ...etc.
+
+![](business_machine_learning_adoption.png)
